@@ -43,7 +43,7 @@ export function Header({
             </div>
           )}
         </div>
-        <span className="logo-text">claude-memzzzz</span>
+        <span className="logo-text">claude-memzzsdadszz</span>
       </h1>
       <div className="status">
         <a
